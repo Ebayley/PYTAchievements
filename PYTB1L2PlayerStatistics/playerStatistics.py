@@ -11,7 +11,7 @@ playerAlignment = True
 
 
 print('Hello my name is ' + player + ' and these are my statistics:\n' + 
-'Health: ' + str(playerHealth) + '\nStamina: ' + str(playerStamina) + '\nMana: ' + str(playerMana) + '\nStrength: ' + str(playerStrength) + '\nSpeed: ' + playerSpeed + '\n\nAnd this is my magic type: ' + playerMagic + '\nAnd this i what I carry with me: ' + weapon + ', ' + equipment)
+'Health: ' + str(playerHealth) + '\nStamina: ' + str(playerStamina) + '\nMana: ' + str(playerMana) + '\nStrength: ' + str(playerStrength) + '\nSpeed: ' + playerSpeed + '\nAnd this is my magic type: ' + playerMagic + '\nAnd this is what I carry with me: ' + weapon + ' & ' + equipment)
 
 if playerAlignment == True:
     print('And I am aligned with the forces of good')
