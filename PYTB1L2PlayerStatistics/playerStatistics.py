@@ -20,4 +20,4 @@ elif playerAlignment == False:
 else:
     print('And I am not aligned with any faction')
 
-print('\nIk heb een integer, string en een boolean')string en een boolean')eger, string en een boolean')
+print('\nIk heb een integer, string en een boolean')
