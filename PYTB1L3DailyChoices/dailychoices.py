@@ -1,8 +1,6 @@
 
 a = True
-x = 0
 while a:
-    #print("Hello you! let's play a game of choices.\n")
 
     def fifthChoice():
         c5 = input("Choose A or B.\n")
