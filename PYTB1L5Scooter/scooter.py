@@ -2,8 +2,6 @@ verzekering_per_maand = 23
 benzine_kosten_per_liter = 1.54
 liter_per_kilometer = 0.2
 
-#maandkosten = (km_per_maand x liter_per_kilometer x benzine_kosten_per_liter) + verzekering_per_maand
-
 invoer = 0
 while not isinstance(invoer, float):
 	
